@@ -1,10 +1,3 @@
-/*
- * dijkstra.c
- *
- * Created: 30-12-2018 22:06:58
- * Author : ankush
- */ 
-
 #define F_CPU 14745600
 #include <avr/io.h>
 #include <avr/interrupt.h>
