@@ -1,10 +1,3 @@
-/*
- * black_line_node.c
- *
- * Created: 25-12-2018 21:25:46
- * Author : ankush
- */ 
-
 #define F_CPU 14745600
 #include <avr/io.h>
 #include <avr/interrupt.h>
